@@ -1,16 +1,5 @@
-# leozene
+# Leozene
 
-A new Flutter project.
+A one and only versatile music app that lets you store your local music on the cloud and on your phone in individually personalized playlist.
+Never miss that vibe again.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
