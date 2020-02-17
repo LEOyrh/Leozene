@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "658439236915",
+    "firebase_url": "https://leozene-4e46e.firebaseio.com",
+    "project_id": "leozene-4e46e",
+    "storage_bucket": "leozene-4e46e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658439236915:android:99c3b724c1f44ba2322246",
+        "android_client_info": {
+          "package_name": "edu.uco.ryong1.leozene"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658439236915-8cav8u9dvkpdk4g9r9l0irvvotiq82js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeZHVBgHUYBg004Y1wSJFrgsaw-HNzU6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658439236915-8cav8u9dvkpdk4g9r9l0irvvotiq82js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
